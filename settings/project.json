@@ -1,0 +1,28 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [],
+  "group-list": [
+    "default"
+  ],
+  "start-scene": "932541da-4f84-432c-ac5e-7d7f62c0596a",
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": false,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  },
+  "cocos-analytics": {
+    "enable": false,
+    "appID": "13798",
+    "appSecret": "959b3ac0037d0f3c2fdce94f8421a9b2"
+  }
+}

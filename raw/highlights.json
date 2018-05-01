@@ -1,0 +1,18 @@
+{"skeleton":{"images":"images/"},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"row_highlight","bone":"root","attachment":"row_highlight"},
+	{"name":"col_highlight","bone":"root","attachment":"col_highlight"},
+	{"name":"box_highlight","bone":"root","attachment":"box_highlight"},
+	{"name":"cell_highlight","bone":"root","attachment":"cell_highlight"}
+],
+"skins":{
+	"default":{
+		"cell_highlight":{"cell_highlight":{"x":352,"y":348,"width":72,"height":72}},
+		"box_highlight":{"box_highlight":{"x":151,"y":351,"width":208,"height":208}},
+		"col_highlight":{"col_highlight":{"x":619,"y":346,"width":72,"height":610}},
+		"row_highlight":{"row_highlight":{"x":353,"y":618,"width":610,"height":72}}
+	}
+},
+"animations":{"animation":{}}
+}

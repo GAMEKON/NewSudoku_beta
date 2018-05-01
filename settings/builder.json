@@ -1,0 +1,28 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.NewSudoku",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "932541da-4f84-432c-ac5e-7d7f62c0596a",
+  "title": "NewSudoku",
+  "webOrientation": "auto",
+  "includeSDKBox": false,
+  "inlineSpriteFrames_native": true,
+  "optimizeHotUpdate": false,
+  "md5Cache": false
+}
